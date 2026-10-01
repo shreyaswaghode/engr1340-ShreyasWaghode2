@@ -1,0 +1,2 @@
+Multiplication
+Is also know as repeated additon. Is an operation that combines equal groups to find total. Example : 2 x 5 = 10
